@@ -1,4 +1,10 @@
 ---
-title: Welcome to my blog
+title: Welcome to DSS Occupational Specialism 
+---
+
+Design Principles
+---
+
+Project methodologies
 ---
 
