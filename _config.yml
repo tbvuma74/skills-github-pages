@@ -1,3 +1,52 @@
-theme: minima
-description: first webpage
-author: Tau
+# Site settings
+title: Marvin K
+description: "Now Loading"
+baseurl: " " 
+url: "marv.ink" 
+
+# User settings
+username: Tau H
+user_title: Mr
+email: khywah710@gmail.com
+github_username:  marvinkhywah
+gplus_username: /108921086999577378869
+linkedin_public_url: marvin-khywah-a61a1735 # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: 
+profile_picture: https://i.imgur.com/8KyWoFe.jpg
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  section_1:
+    - title: home
+      url: /
+      key_trigger: 1
+    - title: my posts
+      url: /posts
+      key_trigger: 2
+    - title: series
+      url: /series
+      key_trigger: 3
+    - title: tags
+      url: /tags
+      key_trigger: 4
+    - title: about me
+      url: /about
+      key_trigger: 5
+
+# projects in header index
+projects:
+
+
+# exclude my node related stuff
