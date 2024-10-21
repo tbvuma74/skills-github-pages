@@ -1,3 +1,22 @@
 theme: minima
 description: first webpage
 author: Tau
+
+
+baseurl: "/blog"
+
+...
+
+links:
+  section_1:
+    - title: Design Principles
+      url: /
+      key_trigger: 1
+    - title: Servers
+      url: /posts
+      key_trigger: 3
+
+    - title: Switches
+      url: /posts
+      key_trigger: 2
+...
